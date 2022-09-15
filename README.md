@@ -14,4 +14,6 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 Download the .zip --> extract --> open terminal/command prompt(cmd) --> install below dependencies first.
 
 npm i aws-serverless-express
+
+
 npm i express body-parser cors
