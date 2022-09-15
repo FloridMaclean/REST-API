@@ -10,6 +10,13 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+#Node.js API with Express + Serverless + AWS
+Download the .zip --> extract --> open terminal/command prompt(cmd) --> install below dependencies first.
+
+npm i aws-serverless-express
+npm i express body-parser cors
+
+
 # Serverless Framework Node HTTP API on AWS
 
 This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda and API Gateway using the Serverless Framework.
