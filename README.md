@@ -15,5 +15,6 @@ Download the .zip --> extract --> open terminal/command prompt(cmd) --> install 
 
 npm i aws-serverless-express
 
-
 npm i express body-parser cors
+
+<img src='https://github.com/FloridMaclean/REST-API/blob/main/Concept%20Map%20-%20Frame%201.jpg'>
