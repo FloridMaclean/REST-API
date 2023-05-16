@@ -19,4 +19,6 @@ Download the .zip --> extract --> open terminal/command prompt(cmd) --> install 
 
 - sls deply
 
+<h1>Here's a conceptual map for better understanding of project:</h1>
+
 <img src='https://github.com/FloridMaclean/REST-API/blob/main/Concept%20Map%20-%20Frame%201.jpg'>
